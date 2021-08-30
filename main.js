@@ -88,7 +88,7 @@ class Player {
       } else this.frameY = 0;
     }
 
-    ctx.fillStyle = "black";
+    //ctx.fillStyle = "black";
     //ctx.beginPath();
     //ctx.arc(0, 0, this.radius, 0, Math.PI * 360);
     //ctx.fill();
